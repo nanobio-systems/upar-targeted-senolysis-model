@@ -1,0 +1,3 @@
+This project presents a mechanistic computational model of receptor-mediated nanoparticle targeting of senescent fibroblasts. The model describes nanoparticle binding to uPAR surface receptors, receptor-mediated internalisation, intracellular payload release, and senescent-cell clearance. Ordinary differential equations were used to investigate how receptor density and nanoparticle properties influence selective delivery outcomes.
+
+<!-- temp abstract / README -->

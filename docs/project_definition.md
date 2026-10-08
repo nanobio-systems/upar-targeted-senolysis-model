@@ -14,6 +14,7 @@ Which nanoparticle properties maximise selective uptake into senescent cells?
 ### Biological Processes Included ###
 * Receptor binding
 * Endocytosis
+
 * Cell clearance
 
 ### Biological Processes Excluded ###
